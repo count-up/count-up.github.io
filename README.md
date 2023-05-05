@@ -1,2 +1,1 @@
-# count-up.github.io
-&lt;count-up> Web Component
+# https://github.com/event-count/event-count.github.io
